@@ -1,0 +1,3 @@
+/Users/benjaminschreiber/dev/wsu-223-ma2/build/CMakeFiles/ma2.dir
+/Users/benjaminschreiber/dev/wsu-223-ma2/build/CMakeFiles/edit_cache.dir
+/Users/benjaminschreiber/dev/wsu-223-ma2/build/CMakeFiles/rebuild_cache.dir
